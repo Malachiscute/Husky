@@ -1,0 +1,19 @@
+h1 {
+  color: white;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40px;
+  background-image: linear-gradient(90deg, green, purple);
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  background-image: linear-gradient(90deg, green, purple);
+}
+
+body {
+  text-align: center;
+  background-image: linear-gradient(90deg, green, purple);
+}
